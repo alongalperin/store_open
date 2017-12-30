@@ -78,6 +78,7 @@ __Products:__
 | category_id  | int    |
   
 __Purchases:__
+
 | Column        | Type      |
 | :------------ | :-------- |
 | purchase_id   | int       |
