@@ -54,7 +54,7 @@ The tables in the database:
 Customers:  
 
 | Column         | Type   |
-| -------------- | :----: |
+| :------------: | :----: |
 | cusetomer_id   | int    |
 | email          | string |
 | first_name     | string |
