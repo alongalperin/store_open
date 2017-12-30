@@ -9,27 +9,30 @@ The project is programmed in NodeJS, and SQL as database. I am using MySQL.
   
 ## Let's Get Started:  
   
-__How to run the project?__  
-__**Requirments**__  
-   
+__How to run the project?__
+  
+__**Requirments**__   
 First make you have on your computer SQL environment: MySQL, SQLite or PostgreSQL.  
 My code is using MySQL, so if you work with MySQL you don't have to do alot of changes in the code.  
 Make use you have database named **store**.  
-  
-__**Edit db_config.js**__  
-Open the file db_config.js in the folder configand change there then settings according to your environment.
 
-__**Run the Project**__  
+__**Download the Project**__  
 Download or Clone the project  
 ```
 git clone https://github.com/alongalperin/store_open.git
 ```
+  
+__**Edit db_config.js**__  
+Open the file db_config.js in the folder configand change there then settings according to your environment.  
+  
 The project has package.json which we will help us install the dependencies.  
+  
 In the package.json file we have entry for installing MySQL client.  
-  
-Open command line and navigate to the project path.  
-  
 **If you use SQL environment that is not MySQL you can remove this line from package.json: "mysql": "^2.15.0".**  
+
+__**Run the Project**__
+Open command line and navigate to the project path.  
+
 Install dependecies:
 ```
 npm install
