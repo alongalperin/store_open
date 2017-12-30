@@ -14,15 +14,22 @@ __**Requirments**__
    
 First make you have on your computer SQL environment: MySQL, SQLite or PostgreSQL.  
 My code is using MySQL, so if you work with MySQL you don't have to do alot of changes in the code.  
+Make use you have database named **store**.
+
+__**Edit db_config.js **__ 
+Open the file db_config.js in the folder config.  
+There change the settings according to your environment.
 
 __**Run the Project**__  
 Download or Clone the project  
 ```
 git clone https://github.com/alongalperin/store_open.git
 ```
-Open command line and navigate to the project path.  
 The project has package.json which we will help us install the dependencies.  
-in the package.json file we have entry for installing MySQL client.  
+In the package.json file we have entry for installing MySQL client.  
+  
+Open command line and navigate to the project path.  
+  
 **If you use SQL environment that is not MySQL you can remove this line from package.json: "mysql": "^2.15.0".**  
 Install dependecies:
 ```
@@ -33,6 +40,7 @@ If you use PostgreSQL or SQLite run one of the following:
 npm install pg
 npm install sqlite3
 ```
+make
 
 The tables in the database:  
 __
