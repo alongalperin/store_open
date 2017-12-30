@@ -39,8 +39,8 @@ npm install
 ```
 If you use PostgreSQL or SQLite run one of the following:
 ```
-npm install pg
-npm install sqlite3
+npm install pg --save
+npm install sqlite3 --save
 ```
 make
 
