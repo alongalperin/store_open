@@ -95,5 +95,5 @@ __products_in_purchases:__
 
 ### To start the server:  
 ```
-npm app.js
+node app.js
 ```
