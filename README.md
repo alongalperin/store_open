@@ -1,7 +1,7 @@
 # Store Open Source  
 ### by Alon Galperin
   
-Hi, in this project I will provide a system for managing store.  
+Hi, in this project I will provide a system for managing online store.  
 The code is free for your use for learning purpose.  
   
 The project is containing only the servser side for now, the front end will be simulated using Google Postmman [Link to download Postmane](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)  
