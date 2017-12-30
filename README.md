@@ -17,8 +17,7 @@ My code is using MySQL, so if you work with MySQL you don't have to do alot of c
 Make use you have database named **store**.  
   
 __**Edit db_config.js**__  
-Open the file db_config.js in the folder config.  
-There change the settings according to your environment.
+Open the file db_config.js in the folder configand change there then settings according to your environment.
 
 __**Run the Project**__  
 Download or Clone the project  
