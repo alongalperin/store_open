@@ -14,8 +14,17 @@ __**Requirments**__
    
 First make you have on your computer SQL environment: MySQL, SQLite or PostgreSQL.  
 My code is using MySQL, so if you work with MySQL you don't have to do alot of changes in the code.  
-Open
 
+__**Run the Project**__  
+Download or Clone the project  
+```
+git clone https://github.com/alongalperin/store_open.git
+```
+Open command line and navigate to the project path.  
+The project has package.json which we will help us install the dependencies.  
+in the package.json file we have entry for installing MySQL client.
+**If you use SQL environment that is not MySQL,  
+you need to install the correnct SQL client for nodeJS and you can remove this line from package.json: "mysql": "^2.15.0"**  
 
 The tables in the database:  
 __
