@@ -63,9 +63,18 @@ Customers:
   
 Categories:  
 
-| Column         | Type   |
-| :------------- | :----- |
-| cat_id         | int    |
-| category_name  | string |
+| Column        | Type   |
+| :------------ | :----- |
+| cat_id        | int    |
+| category_name | string |
   
+Products:  
+
+| Column       | Type   |
+| :----------- | :----- |
+| product_id   | int    |
+| product_name | string |
+| quantity     | int    |
+| category_id  | int    |
+
 e
