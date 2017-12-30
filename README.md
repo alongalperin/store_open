@@ -14,9 +14,9 @@ __**Requirments**__
    
 First make you have on your computer SQL environment: MySQL, SQLite or PostgreSQL.  
 My code is using MySQL, so if you work with MySQL you don't have to do alot of changes in the code.  
-Make use you have database named **store**.
-
-__**Edit db_config.js **__ 
+Make use you have database named **store**.  
+  
+__**Edit db_config.js**__  
 Open the file db_config.js in the folder config.  
 There change the settings according to your environment.
 
