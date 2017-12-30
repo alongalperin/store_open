@@ -51,7 +51,8 @@ node create_tables.js
 
 The tables in the database:  
   
-Customers:
+Customers:  
+
 | Column         | Type   |
 | -------------- | :----: |
 | cusetomer_id   | int    |
