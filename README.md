@@ -97,3 +97,4 @@ __products_in_purchases:__
 ```
 node app.js
 ```
+The app will listen on port 3000
