@@ -77,4 +77,9 @@ __Products:__
 | quantity     | int    |
 | category_id  | int    |
   
-e
+__Purchases:__
+| Column        | Type      |
+| :------------ | :-------- |
+| purchase_id   | int       |
+| customer_id   | int       |
+| purchase_date | timestamp |
