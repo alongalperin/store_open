@@ -42,7 +42,7 @@ If you use PostgreSQL or SQLite run one of the following:
 npm install pg --save
 npm install sqlite3 --save
 ```
-### Create the talbes:  
+### Create the tables:  
 We have script that create the tables in "store" database, using the Knex.js (query builder).  
 To run this script, type in the command line:
 ```
