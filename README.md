@@ -93,3 +93,7 @@ __products_in_purchases:__
 | product_id  | int  |
 | quantity    | int  |
 
+### To start the server:  
+```
+npm app.js
+```
