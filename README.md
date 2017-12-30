@@ -51,7 +51,7 @@ node create_tables.js
 
 The tables in the database:  
   
-Customers:  
+__Customers:__  
 
 | Column         | Type   |
 | :------------- | :----- |
@@ -61,14 +61,14 @@ Customers:
 | last_name      | string |
 | password hased | string |
   
-Categories:  
+__Categories:__  
 
 | Column        | Type   |
 | :------------ | :----- |
 | cat_id        | int    |
 | category_name | string |
   
-Products:  
+__Products:__  
 
 | Column       | Type   |
 | :----------- | :----- |
