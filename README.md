@@ -86,9 +86,10 @@ __Purchases:__
 | purchase_date | timestamp |
   
 __products_in_purchases:__  
-  
+
 | Column      | Type |
 | :---------- | :--- |
 | purchase_id | int  |
 | product_id  | int  |
 | quantity    | int  |
+
