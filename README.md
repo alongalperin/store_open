@@ -60,3 +60,11 @@ Customers:
 | first_name     | string |
 | last_name      | string |
 | password hased | string |
+  
+Categories:  
+| Column         | Type   |
+| :------------- | :----- |
+| cat_id         | int    |
+| category_name  | string |
+  
+e
