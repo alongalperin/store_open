@@ -62,6 +62,7 @@ Customers:
 | password hased | string |
   
 Categories:  
+
 | Column         | Type   |
 | :------------- | :----- |
 | cat_id         | int    |
