@@ -52,10 +52,10 @@ node create_tables.js
 The tables in the database:  
   
 Customers:
-| Column          | Type       |
-| ----------------|------------|
-| cusetomer_id    |   int      |
-| email           |   string   |
-| first_name      |   string   |
-| last_name       |   string   |
-| password hased  |   string   |
+| Column          | Type     |
+| --------------- | :------: |
+| cusetomer_id    | int      |
+| email           | string   |
+| first_name      | string   |
+| last_name       | string   |
+| password hased  | string   |
