@@ -23,7 +23,7 @@ git clone https://github.com/alongalperin/store_open.git
 Open command line and navigate to the project path.  
 The project has package.json which we will help us install the dependencies.  
 in the package.json file we have entry for installing MySQL client.  
-**If you use SQL environment that is not MySQL you can remove this line from package.json: "mysql": "^2.15.0"**  
+**If you use SQL environment that is not MySQL you can remove this line from package.json: "mysql": "^2.15.0".**  
 Install dependecies:
 ```
 npm install
