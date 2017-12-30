@@ -76,5 +76,5 @@ __Products:__
 | product_name | string |
 | quantity     | int    |
 | category_id  | int    |
-
+  
 e
