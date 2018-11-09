@@ -28,7 +28,7 @@ Open the file db_config.js in the folder config and change there the settings ac
 The project has package.json which we will help us install the dependencies.  
   
 In the package.json file we have entry for installing MySQL client.  
-**If you use SQL environment that is not MySQL you can remove this line from package.json: "mysql": "^2.15.0".**  
+**If you are using SQL environment that is not MySQL you can remove this line from package.json: "mysql": "^2.15.0".**  
   
 #### Run the Project  
 Open command line and navigate to the project path.  
