@@ -1,7 +1,7 @@
 # Store Open Source  
 ### by Alon Galperin
   
-ַProject that provide a system for managing online store.   
+Project that provide a system for managing online store.   
   
 The project is containing only the servser side for now, the front end will be simulated using Google Postmman [Link to download Postmane](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)  
 The project is programmed in NodeJS, and SQL as database. I am using MySQL.  
